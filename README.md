@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shikha4554
 - 👀 Exploring new technologies and developing software solutions.
-- 🌱 I’m currently doing graduation in computer science. 
+- 🌱 Frontend and backend developer
+- ✨ Dotnet Developer
 - 💞️ I’m looking to collaborate on  GitHub groups 
 - 📫 reach me on GitHub, LinkedIn, Instagram, Twitter and fecebook
 - 😄 Pronouns: Shikha
