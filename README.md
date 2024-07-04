@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shikha4554
-- 👀 I’m interested in research
+- 👀 Exploring new technologies and developing software solutions.
 - 🌱 I’m currently doing graduation in computer science. 
 - 💞️ I’m looking to collaborate on  GitHub groups 
 - 📫 reach me on GitHub, LinkedIn, Instagram, Twitter and fecebook
